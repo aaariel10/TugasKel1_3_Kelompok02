@@ -3,9 +3,6 @@
 <!-- Penanggung jawab: ZULFAJRIN 13020240084 -->
 
 
-# A1. Analisis Empat Konteks Arsitektur
-Penanggung jawab: ZULFAJRIN 13020240084
-
 | Konteks | Kondisi Layanan Izin dan Sakit |
 | :--- | :--- |
 | **Teknis** | Layanan ini terintegrasi dengan database presensi utama UMI dan cloud storage untuk penampungan unggahan dokumen bukti (PDF/foto), serta diakses via antarmuka web/mobile oleh mahasiswa dan dosen. |
