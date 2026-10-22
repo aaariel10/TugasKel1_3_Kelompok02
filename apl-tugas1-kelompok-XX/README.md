@@ -4,19 +4,21 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 
 | Keterangan | Isi |
 |---|---|
-| Kelompok | Bagian [I / II / III] – Kelompok [XX] |
-| Subsistem | [salin dari tabel 2.2 pada dokumen tugas] |
-| Layanan inti | [salin dari tabel 2.2 pada dokumen tugas] |
-| Perwakilan kelompok | [nama, stambuk] |
+| Kelompok | Bagian [III] – Kelompok [2] |
+| Subsistem | Attendance Management |
+| Layanan inti | Layanan izin dan sakit: pengajuan, bukti, persetujuan, dan pencatatan ke presensi |
+| Perwakilan kelompok | [Zulfajrin, 13020240084] |
 
 ## Anggota
 
-| No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
-|---|---|---|---|---|
-| 1 | | | @ | |
-| 2 | | | @ | |
-| 3 | | | @ | |
-| 4 | | | @ | |
+| No |  Stambuk   |            Nama         | Akun GitHub | Kode yang dikerjakan |
+|--- |------------|-------------------------|-------------|----------------------|
+| 1  |13020240084 |Zulfajrin                | @rizukyyy   | A1 DAN B1 |
+| 2  |13020240088 |Muh Aslam                | @           | |
+| 3  |13020240103 |Ariel Satyawan Syarah    | @           | |
+| 4  |13020240075 |Airil Nasbi              | @           | |
+| 5  |13020240306 |Andi Muhammad Dzaki Idrus| @           | |
+ 
 
 ## Peta berkas dan penanggung jawab
 
@@ -25,7 +27,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | Kode | Berkas | Penanggung jawab | Status |
 |---|---|---|---|
 | BAB I | laporan/BAB1-pendahuluan.md | | Belum |
-| A1 | laporan/A1-konteks-arsitektur.md | | Belum |
+| A1 | laporan/A1-konteks-arsitektur.md | | Selesai |
 | A2 | laporan/A2-stakeholder.md | | Belum |
 | A3 | laporan/A3-batasan.md | | Belum |
 | A4 | laporan/A4-asr.md | | Belum |
