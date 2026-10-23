@@ -15,7 +15,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 |--- |------------|-------------------------|-------------|----------------------|
 | 1  |13020240084 |Zulfajrin                | @rizukyyy   | A1 DAN B1 |
 | 2  |13020240088 |Muh Aslam                | @           | |
-| 3  |13020240103 |Ariel Satyawan Syarah    | @           | |
+| 3  |13020240103 |Ariel Satyawan Syarah    | @aaariel10           |A3 DAN B4 |
 | 4  |13020240075 |Airil Nasbi              | @           | |
 | 5  |13020240306 |Andi Muhammad Dzaki Idrus| @           | |
  
